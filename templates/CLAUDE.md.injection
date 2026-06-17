@@ -1,0 +1,12 @@
+<!-- about-me-context:start -->
+# About Me Context (auto-loaded)
+
+These four files describe who I am, how I write, what I am working on, and what to avoid. Read them before responding in any new folder or session. They override generic defaults.
+
+@~/.claude/about-me/01-me.md
+@~/.claude/about-me/02-work.md
+@~/.claude/about-me/03-life.md
+@~/.claude/about-me/04-goals-2026.md
+
+If you find a conflict between these files and a project-level CLAUDE.md, the project file wins for project-specific facts. The communication preferences in `01-me.md` always apply.
+<!-- about-me-context:end -->
