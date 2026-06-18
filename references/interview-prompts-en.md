@@ -11,27 +11,24 @@ Open with: "We are building the file Claude reads first. Identity, how you write
 ### A. Quick identity
 1. Name and what you go by in different settings (work / family / online).
 2. Where you live and where you are from. Does it matter for advice?
-3. One sentence: who you are when nobody is watching.
-4. One sentence: who you are professionally, in plain language a 10-year-old would get.
+3. One sentence: who you are professionally, in plain language a 10-year-old would get.
 
 ### B. How you write
-5. Paste a 200-word sample of your own writing (any context: email, post, doc, message).
-6. Three words that describe how you sound at your best.
-7. Three words that describe how you sound when you are tired or rushed.
-8. Words or phrases you would never use. Why.
-9. Words or phrases you secretly love. Why.
-10. Formality default: "you/אתה/את" formal, casual, slang, code-switch?
+4. Paste a 200-word sample of your own writing (any context: email, post, doc, message).
+5. Paste an AI answer you recently fixed or hated, and say in one line what was wrong with it.
+6. Words or phrases you would never use. Why.
+7. Words or phrases you secretly love. Why.
+8. Formality default: formal, casual, slang, code-switch?
 
-### C. What energizes vs drains
-11. The kind of question you love being asked.
-12. The kind of question that makes you shut down.
-13. Tone you cannot stand from an assistant (sycophancy, hedging, over-explaining, lectures). Be specific.
+### C. How to work with you
+9. When something is unclear to Claude, what do you prefer: it asks a focused question, proposes a direction then checks, or guesses and lets you correct?
+10. Tone you cannot stand from an assistant (sycophancy, hedging, over-explaining, lectures). Be specific.
 
 ### D. Constraints Claude must respect
-14. Topics you do not want Claude to bring up unprompted.
-15. Anything about your gender, pronouns, identity that affects how text addresses you.
-16. Languages you work in. Default language. When to switch.
-17. Anything else Claude should know about you that does not fit a category above.
+11. Topics you do not want Claude to bring up unprompted.
+12. Anything about your gender, pronouns, identity that affects how text addresses you.
+13. Languages you work in. Default language. When to switch.
+14. Anything else Claude should know about you that does not fit a category above.
 
 When done: synthesize into `01-me.md` template. Append the anti-tells communication-preferences block at the bottom.
 
@@ -44,14 +41,13 @@ Open with: "Now your work. Branch one: employee or executive in an org. Branch t
 ### Branch A — Employee / executive
 1. Title and what you actually do day to day (not what HR says).
 2. Who you report to. Who reports to you.
-3. The decision your job is really about, when you strip away everything else.
+3. The main decision you are responsible for in your role.
 4. A successful week: what is in it.
 5. A bad week: what is in it.
 6. What you are unusually good at. What you avoid.
 7. The hardest part of your job right now.
-8. The political thing you wish you could say out loud.
-9. Where you want to be in two years.
-10. The skill you keep telling yourself you should learn.
+8. Where you want to be in two years.
+9. The skill you keep telling yourself you should learn.
 
 ### Branch B — Founder / freelancer / business owner
 1. What your business does, in one sentence a stranger gets.
@@ -84,7 +80,7 @@ Open with: "Skip anything that feels too personal. We only need what helps Claud
 5. What gives you energy. What drains you.
 6. Hard constraint on time (school pickup, prayer, work hours, caregiving).
 7. Hard constraint on money (runway, big payments, savings goal).
-8. The thing you are tolerating that you should not be.
+8. When in your day or week you are sharpest for hard work, and when energy drops.
 9. What "a good month" actually looks like for you.
 
 ---
