@@ -43,7 +43,15 @@
 
 ## התקנה
 
-**אופציה א' (מומלצת):**
+**הדרך הקלה (בלי טרמינל):** פותחים קלוד קוד ומדביקים:
+
+```
+התקן לי את הסקיל מ-https://github.com/octaloom-bit/about-me-context
+```
+
+קלוד מוריד ומתקין לבד. זהו.
+
+**אופציה א' (טרמינל):**
 
 ```bash
 git clone https://github.com/octaloom-bit/about-me-context.git
@@ -151,7 +159,17 @@ The wiring block that goes into `CLAUDE.md`:
 
 ## Install
 
-### Option A: installer (recommended)
+### Easiest (no terminal): just ask Claude
+
+Open Claude Code and paste:
+
+```
+install the skill for me from https://github.com/octaloom-bit/about-me-context
+```
+
+Claude downloads and installs it itself. That's it.
+
+### Option A: terminal installer
 
 ```bash
 git clone https://github.com/octaloom-bit/about-me-context.git
